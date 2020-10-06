@@ -42,10 +42,10 @@ function fancyAlert(arg) {
 }
 ```
 
- function fancyAlert(arg) {
-      if(arg) {
-        $.facebox({div:'#foo'})
-      }
+    function fancyAlert(arg) {
+          if(arg) {
+            $.facebox({div:'#foo'})
+          }
     }
     
     def foo():
