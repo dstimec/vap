@@ -23,4 +23,4 @@ _You **can** combine them_
    1. Item 3b
 
 http://github.com - automatic!
-[GitHub](http://github.com)
+[GitHub](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/getting-started-with-writing-and-formatting-on-github)
