@@ -25,3 +25,8 @@ _You **can** combine them_
 http://github.com - automatic!
 
 [Getting started with...](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/getting-started-with-writing-and-formatting-on-github)
+
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
